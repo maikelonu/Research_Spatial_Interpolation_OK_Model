@@ -1,0 +1,16 @@
+ATTRIBUTE	VALUE
+spa.res	100
+xmin	494409
+xmax	516509
+ymin	1082271
+ymax	1102971
+goef.col	221
+geof.row	207
+threshold	0.05
+nugget.all	NA
+range.all	5000
+sill.all	NA
+nugget.cal	NA
+range.cal	5000
+sill.cal	NA
+cores	4
