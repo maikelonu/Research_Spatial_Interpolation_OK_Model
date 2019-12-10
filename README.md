@@ -1,5 +1,8 @@
 ![alt test](/sshot-1.png)
 # Spatial_Interpolation_OK
+
+# https://doi.org/10.1016/j.proeng.2016.07.595
+
 Geostatistical Ordinary Kriging Interpolation Method
 
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
